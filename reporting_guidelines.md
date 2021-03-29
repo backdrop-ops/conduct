@@ -53,9 +53,9 @@ to how to respond. Responses may include:
 * A request to engage in mediation and/or an accountability plan.
 * An imposed vacation (i.e. asking someone to "take a week off" from
   participating in online communication channels such as GitHub issue queues,
-  Gitter, or Twitter).
+  Zulip, or Twitter).
 * A temporary or permanent ban from some or all Backdrop CMS spaces (events,
-meetings, GitHub issue queues, Gitter chat chanels, etc.)
+meetings, GitHub issue queues, Zulip chat chanels, etc.)
 
 We'll respond within one week to the person who filed the report with either a
 resolution or an explanation of why the situation is not yet resolved.
